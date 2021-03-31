@@ -1,7 +1,7 @@
 import os
 
 # Consts
-path_to_books = "/Users/Evgenij 1/WEB/gdz/source/books/by-id-22-03-2021";
+path_to_books = "";
 
 # Need to set
 book_id = "77"
